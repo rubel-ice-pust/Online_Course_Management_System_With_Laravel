@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- flevix.com  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px"
+	 height="150px" xml:space="preserve">
+<g id="Dash-Circle">
+	<g>	
+		<circle fill="none" stroke="#662D91" stroke-width="5" stroke-miterlimit="10" stroke-dasharray="12.2178,12.2178" cx="75.333" cy="75.167" r="70">
+			<animateTransform attributeName="transform"
+                attributeType="XML"
+                type="rotate"
+                from="0 75 75"
+                to="360 75 75"
+                dur="7s"
+                repeatCount="indefinite"/>
+		</circle>
+	</g>
+</g>
+<g id="Fill-Circle">
+	<circle fill="#662D91" cx="74.417" cy="75.25" r="56"/>
+</g>
+<g id="Vertical-Bar">
+	<path fill="#F1F2F2" d="M56.667,97.5c0,1.933-1.567,3.5-3.5,3.5l0,0c-1.933,0-3.5-1.567-3.5-3.5V53.167c0-1.933,1.567-3.5,3.5-3.5
+		l0,0c1.933,0,3.5,1.567,3.5,3.5V97.5z">
+
+		<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="1.25s"
+                          begin=".1"
+                          values="0,15;0,-15;0,15;"
+                          repeatCount="indefinite"/>
+	</path>
+
+	<path fill="#F1F2F2" d="M77.917,97.417c0,1.933-1.567,3.5-3.5,3.5l0,0c-1.933,0-3.5-1.567-3.5-3.5V53.083
+		c0-1.933,1.567-3.5,3.5-3.5l0,0c1.933,0,3.5,1.567,3.5,3.5V97.417z">
+
+		<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="1.25s"
+                          begin=".3"
+                          values="0,15;0,-15;0,15;"
+                          repeatCount="indefinite"/>
+	</path>
+	<path fill="#F1F2F2" d="M99.316,97.5c0,1.933-1.567,3.5-3.5,3.5l0,0c-1.933,0-3.5-1.567-3.5-3.5V53.167c0-1.933,1.567-3.5,3.5-3.5
+		l0,0c1.933,0,3.5,1.567,3.5,3.5V97.5z">
+
+		<animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="translate"
+                          dur="1.25s"
+                          begin=".6"
+                          values="0,15;0,-15;0,15;"
+                          repeatCount="indefinite"/>
+	</path>
+</g>
+</svg>
